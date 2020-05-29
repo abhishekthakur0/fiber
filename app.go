@@ -28,7 +28,7 @@ import (
 // Version of current package
 const Version = "1.10.1"
 
-// Map is a shortcut for map[string]interface{}, usefull for JSON returns
+// Map is a shortcut for map[string]interface{}, useful for JSON returns
 type Map map[string]interface{}
 
 // Handler ...
